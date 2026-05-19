@@ -3,19 +3,19 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=piyushzala158&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://piyushzala.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:dev.piyushzala@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 <div align="center">
-  <h2>💻 Full Stack Developer | 🚀 Tech Enthusiast</h2>
+  <h2>💻 Frontend Engineer | 🚀 AI Enthusiast</h2>
 </div>
 
 <div align="center">
@@ -30,7 +30,7 @@ const developer = {
   learning: ["System Design", "Backend Development"],
   askMeAbout: ["React", "Next.js", "JavaScript"],
   location: "India",
-  funFact: "I debug with console.log 😄",
+  funFact: "I debug with console.time 😄",
 };
 ```
 
@@ -60,9 +60,9 @@ const developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=piyushzala158&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushzala158&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -70,17 +70,17 @@ const developer = {
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/piyushzala/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_TWITTER">
+<!-- <a href="YOUR_TWITTER">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/>
-</a>
+</a> -->
 
-<a href="YOUR_INSTAGRAM">
+<!-- <a href="YOUR_INSTAGRAM">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
+</a> -->
 
 </div>
 
